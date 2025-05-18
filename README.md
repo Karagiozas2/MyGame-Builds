@@ -1,4 +1,5 @@
 Epirus : Last Stand
+
 Note: to download the game, you have to manually press the zip and download raw zip file.
 
 V1.0 - Win64
@@ -22,3 +23,6 @@ Select units: Left‑Click
 Issue move/attack: Right‑Click
 Camera pan: W A S D / Arrow keys, border scroll, Middle wheel press and hold while moving mouse
 Pause menu: Esc
+
+installation: 
+Just download the zip file and run the .exe
