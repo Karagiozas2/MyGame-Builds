@@ -4,6 +4,7 @@ Note: to download the game, you have to manually press the zip and download raw 
 
 V1.0 - Win64
 
+Demo Link: https://youtu.be/31XpT2yKzWk?si=k7RdlXfu4FEvqOMF
 
 Defend the mountain strongholds of Souli against Ali Pasha’s relentless campaigns in this historically inspired real‑time‑strategy game built with Unity.
 Between 1792 – 1803 the Souliote clans of Epirus fought to remain free from the powerful Ottoman ruler Ali Pasha of Ioannina. Souli 1792 lets you relive that struggle: marshal guerilla fighters, exploit the rough terrain and push back waves of Ottoman assaults.
@@ -26,3 +27,4 @@ Pause menu: Esc
 
 installation: 
 Just download the zip file and run the .exe
+
